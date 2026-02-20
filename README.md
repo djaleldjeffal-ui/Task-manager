@@ -1,5 +1,5 @@
 # Task Manager CLI
-Mini_Project : Djeffal Djelal & Madi Ilyes
+# Mini_Project : Djeffal Djelal & Madi Ilyes
 
 Simple command-line application to manage study tasks.
 
