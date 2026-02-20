@@ -1,6 +1,7 @@
 # Task Manager CLI
 # Mini_Project : Djeffal Djelal & Madi Ilyes
-#Link to Git_Hub : https://github.com/djaleldjeffal-ui/Task-manager.git
+
+# Link to Git_Hub:https://github.com/djaleldjeffal-ui/Task-manager.git
 
 Simple command-line application to manage study tasks.
 
